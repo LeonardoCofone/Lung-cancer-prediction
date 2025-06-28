@@ -5,4 +5,6 @@ Techniques Used:
 Preprocessing: missing value handling, feature scaling.  
 Models: SVM, Random Forest, XGBoost, Gradient Boosting, Decision Tree  
 Ensemble: with the 3 best models and tuning of the theshold  
-Result: AUC: 0.996 and F1 Score: 0.98
+Result: AUC: 0.996 and F1 Score: 0.98  
+
+> Thank you all!!
