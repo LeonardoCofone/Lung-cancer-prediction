@@ -127,7 +127,7 @@ Machine Learning & Deep Learning Specialist
 
 ---
 
-## 🔗 Connect
+## 🔗 Connect to me
 
 * [LinkedIn](https://www.linkedin.com/in/leonardo-cofone-914228361/)
 * [Kaggle](https://www.kaggle.com/zlatan599)
