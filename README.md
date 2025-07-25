@@ -125,6 +125,8 @@ This model demonstrates robust generalization and practical clinical viability.
 **Leonardo Cofone**
 Machine Learning & Deep Learning Specialist
 
+Thank you!!
+
 ---
 
 ## 🔗 Connect to me
