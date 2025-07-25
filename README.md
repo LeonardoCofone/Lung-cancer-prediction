@@ -131,5 +131,6 @@ Thank you!!
 
 ## 🔗 Connect to me
 
-* [LinkedIn](https://www.linkedin.com/in/leonardo-cofone-914228361/)
-* [Kaggle](https://www.kaggle.com/zlatan599)
+[Linkedin](https://www.linkedin.com/in/leonardo-cofone-914228361/)  
+[Kaggle](https://www.kaggle.com/zlatan599)  
+[All Links](https://linktr.ee/Leonardo_Cofone)
